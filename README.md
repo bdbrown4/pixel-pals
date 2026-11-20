@@ -3,6 +3,8 @@
 A single-page canvas toy: pixel Pokemon wander around and you pet them by clicking.
 Everything is in `index.html` — no build step, no dependencies.
 
+**Live:** https://bdbrown4.github.io/pixel-pals/
+
 ## Run it locally
 
 Just open `index.html`, or serve it:
